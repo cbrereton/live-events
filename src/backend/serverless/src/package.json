@@ -10,7 +10,7 @@
     "axios": "*"
   },
   "devDependencies": {
-    "aws-sdk": "^2.687.0",
+    "aws-sdk": "^2.814.0",
     "jest": "^26.0.1"
   }
 }
